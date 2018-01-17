@@ -6,4 +6,5 @@ if( i === 1){
   console.log("I am" + ${i} + "strange loops.");
 }
 }
+return array
 }
